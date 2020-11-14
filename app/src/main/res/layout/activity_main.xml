@@ -18,7 +18,7 @@
         android:layout_above="@id/imageView"
         android:layout_centerHorizontal="true"
         android:text="@string/i_am_poor"
-        android:textColor="#FB8C00"
+        android:textColor="#FDD835"
         android:textColorHint="#FFFFFF"
         android:textSize="40sp" />
 
