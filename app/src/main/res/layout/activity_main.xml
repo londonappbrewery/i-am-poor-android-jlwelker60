@@ -17,7 +17,7 @@
         android:layout_height="275dp"
         android:layout_alignParentBottom="true"
         android:layout_centerInParent="true"
-        android:layout_marginBottom="221dp"
+        android:layout_marginBottom="206dp"
         android:contentDescription="TODO"
         app:srcCompat="@drawable/vette_image" />
 
@@ -27,10 +27,10 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginBottom="116dp"
+        android:layout_marginBottom="101dp"
         android:text="POOR..LOL"
         android:textColor="#FDD835"
-        android:textSize="60sp"
+        android:textSize="50sp"
         android:textStyle="bold" />
 
     <TextView
@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="108dp"
+        android:layout_marginTop="61dp"
         android:text="I am"
         android:textColor="#FDD835"
         android:textSize="50sp" />
